@@ -16,9 +16,9 @@ git add readme.md
 //提交
 git commit -m "message"
 
-//看工作区有哪些文件被修改过
+//看工作区有哪些文件被修改过，commit之后可见
 git status
-//查看具体修改内容
+//查看具体修改内容,没add没commit也可见
 git diff
 
 //查看最近到最远的提交日志
